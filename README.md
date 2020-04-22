@@ -40,6 +40,6 @@ The key idea for this tutorial is that if we really study deep learning's fundam
 
 I'd love to hear how well this workshop went for you. Please consider [leaving feedback so I can improve the workshop](https://ericma1.typeform.com/to/Tv185B).
 
-## Further Reading:
+conda install -c conda-forge ipywidgetsconda install -c conda-forge ipywidgets## Further Reading:
 
 - [Demystifying Different Variants of Gradient Descent Optimization Algorithm](https://hackernoon.com/demystifying-different-variants-of-gradient-descent-optimization-algorithm-19ae9ba2e9bc)
